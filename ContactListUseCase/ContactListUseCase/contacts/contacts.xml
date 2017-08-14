@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<contacts>
+  <contact>
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Jane</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Sam</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Fred</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Jackie</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Michael</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Jordan</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Sam</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Orlando</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Catrel</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Johnny</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Will</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Christina</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Breya</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Kendre</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Sara</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Tommy</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Lewis</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Lanny</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Brandon</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Byron</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Mike</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Merion</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Lois</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Paul</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Terry</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Larry</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>177-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Jarod</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-456-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Walter</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>123-234-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+  <contact>
+    <firstname>Wilson</firstname>
+    <lastname>Doe</lastname>
+    <email>cjmcglwn@memphis.edu</email>
+    <homephonenumber>623-567-7890</homephonenumber>
+    <businessphonenumber>123-456-7890</businessphonenumber>
+    <address>3080 Temple Drive</address>
+    <Notes>This is a contact</Notes>
+  </contact>
+</contacts>

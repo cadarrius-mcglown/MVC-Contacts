@@ -1,0 +1,30 @@
+﻿@model  ContactListUseCase.ViewModels.ContactListViewModel
+
+@* Display every contact passed in viewmodel as button, that makes ajax calls for specific user IDs *@
+<div id="htmlcontactlist" class="list-group">
+    @foreach (var contact in Model.contacts)
+    {
+        <a onclick="GetContactInfo(@contact.Id);" id="@contact.Id" class="list-group-item list-group-item-action">@contact.FirstName  @contact.LastName</a>
+    }
+</div>
+
+<div id="ContactInfoModal"></div>
+
+@* Ajax gets gets all contact information by using contactID *@
+<script>
+    function GetContactInfo(contactID) {
+        $.ajax({
+            url: '@Url.Action("_ContactInfo", "Contacts")',
+            method: "POST",
+            cache: false,
+            data: { Id: contactID }
+        }).done(function (data) {
+            $("#ContactInfoModal").html(data);
+            $('#MyModal').modal('toggle');
+        });
+    }
+
+
+</script>
+
+

@@ -1,0 +1,34 @@
+﻿@model ContactListUseCase.Models.Contact
+
+@* Modal to display contact info for individual person*@
+@{
+    <div id="MyModal" class="modal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Contact Info for @Model.FirstName</h4>
+                </div>
+                <div class="modal-body">
+                    <span class="label label-info lg">First Name:</span><span>@Model.FirstName</span><br />
+                    <span class="label label-info lg">Last Name:</span><span>@Model.LastName</span><br />
+                    <hr />
+                    <span class="label label-info lg">email:</span><span>@Model.Email</span><br />
+                    <span class="label label-info lg">Home Phone:</span><span>@Model.HomePhoneNumber</span><br />
+                    <span class="label label-info lg">Business Phone:</span><span>@Model.BusinessPhoneNumber</span><br />
+                    <span class="label label-info lg">Address:</span><span>@Model.Address</span><br />
+                    <hr />
+                    <span class="label label-info lg">Notes:</span><span>@Model.Notes</span>
+                    
+                    
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+

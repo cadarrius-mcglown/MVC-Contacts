@@ -1,0 +1,38 @@
+﻿@model  ContactListUseCase.ViewModels.ContactListViewModel
+@{
+    ViewBag.Title = "AllContacts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="jumbotron">
+    <h1>Contact List</h1>   
+</div>
+
+@{ Html.RenderPartial("_ContactList");}
+
+<div class="btn-group">
+    @{
+        for (int i = 1; i <= Model.numberOfPages; i++)
+        {
+            <a onclick="UpdateContactList(@i);" class="btn btn-default">@i</a>
+        }
+
+    }
+</div>
+
+<script>
+    function UpdateContactList(pnumber) {
+        $.ajax({
+            url: '@Url.Action("_ContactList", "Contacts")',
+            method: "POST",
+            cache: false,
+            data: { PageNumber: pnumber }
+        }).done(function (data) {
+            $("#htmlcontactlist").html(data);
+        });
+    }
+
+
+</script>
+
+
