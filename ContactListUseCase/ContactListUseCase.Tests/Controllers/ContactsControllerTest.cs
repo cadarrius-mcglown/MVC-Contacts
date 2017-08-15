@@ -18,7 +18,7 @@ namespace ContactListUseCase.Tests.Controllers
             ContactsController controller = new ContactsController();
 
             //act
-            ActionResult result = controller.ContactList() as ActionResult;
+            ActionResult result = controller.ContactList() as ViewResult;
 
 
             //assert

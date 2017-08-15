@@ -15,6 +15,11 @@ namespace ContactListUseCase.Controllers
     public class ContactsController : Controller
     {
 
+        
+        /// <summary>
+        /// Fetches the original Contact list in alphabetical order
+        /// </summary>
+        /// <returns></returns>
         public ActionResult ContactList()
         {
 
@@ -30,6 +35,11 @@ namespace ContactListUseCase.Controllers
             return View(viewmodel);
         }
 
+        /// <summary>
+        /// Fetches the appropriate 10 contacts using a given page number
+        /// </summary>
+        /// <param name="PageNumber"></param>
+        /// <returns></returns>
         [HttpPost]
         public ActionResult _ContactList(int PageNumber)
         {
@@ -70,6 +80,12 @@ namespace ContactListUseCase.Controllers
             return contactList;
         }
 
+
+        /// <summary>
+        /// Get single contact by id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpPost]
         public ActionResult _ContactInfo(int id)
         {
@@ -81,14 +97,5 @@ namespace ContactListUseCase.Controllers
         }
 
       
-
-      
-
-        [Route("contacts/{firstname}/{lastname}")]
-        public ActionResult ByName(string firstname, string lastname)
-        {
-
-            return Content(firstname + "-" + lastname);
-        }
     }
 }
